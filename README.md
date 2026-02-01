@@ -167,8 +167,8 @@ Real-time emotion recognition
 
 👨‍💻 Author
 
-Shubhra Kanti Banerjee
-Engineering Student
+Shubhra Kanti Banerjee ,
+Engineering Student ,
 West Bengal, India
 
 📜 License
